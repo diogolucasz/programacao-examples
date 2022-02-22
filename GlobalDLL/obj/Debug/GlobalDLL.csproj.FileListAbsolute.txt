@@ -1,0 +1,6 @@
+C:\Users\jcosta\source\repos\Projeto\GlobalDLL\bin\Debug\GlobalDLL.dll
+C:\Users\jcosta\source\repos\Projeto\GlobalDLL\bin\Debug\GlobalDLL.pdb
+C:\Users\jcosta\source\repos\Projeto\GlobalDLL\obj\Debug\GlobalDLL.csprojAssemblyReference.cache
+C:\Users\jcosta\source\repos\Projeto\GlobalDLL\obj\Debug\GlobalDLL.csproj.CoreCompileInputs.cache
+C:\Users\jcosta\source\repos\Projeto\GlobalDLL\obj\Debug\GlobalDLL.dll
+C:\Users\jcosta\source\repos\Projeto\GlobalDLL\obj\Debug\GlobalDLL.pdb

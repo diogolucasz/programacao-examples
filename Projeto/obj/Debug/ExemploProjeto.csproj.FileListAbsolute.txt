@@ -1,0 +1,17 @@
+C:\Users\jcosta\source\repos\Projeto\Projeto\bin\Debug\ExemploProjeto.exe.config
+C:\Users\jcosta\source\repos\Projeto\Projeto\bin\Debug\ExemploProjeto.exe
+C:\Users\jcosta\source\repos\Projeto\Projeto\bin\Debug\ExemploProjeto.pdb
+C:\Users\jcosta\source\repos\Projeto\Projeto\bin\Debug\CamadaNegocio.dll
+C:\Users\jcosta\source\repos\Projeto\Projeto\bin\Debug\CamadaDados.dll
+C:\Users\jcosta\source\repos\Projeto\Projeto\bin\Debug\CamadaNegocio.pdb
+C:\Users\jcosta\source\repos\Projeto\Projeto\bin\Debug\CamadaDados.pdb
+C:\Users\jcosta\source\repos\Projeto\Projeto\obj\Debug\ExemploProjeto.csprojAssemblyReference.cache
+C:\Users\jcosta\source\repos\Projeto\Projeto\obj\Debug\ExemploProjeto.ProjetoForm.resources
+C:\Users\jcosta\source\repos\Projeto\Projeto\obj\Debug\ExemploProjeto.Properties.Resources.resources
+C:\Users\jcosta\source\repos\Projeto\Projeto\obj\Debug\ExemploProjeto.csproj.GenerateResource.cache
+C:\Users\jcosta\source\repos\Projeto\Projeto\obj\Debug\ExemploProjeto.csproj.CoreCompileInputs.cache
+C:\Users\jcosta\source\repos\Projeto\Projeto\obj\Debug\ExemploProjeto.csproj.CopyComplete
+C:\Users\jcosta\source\repos\Projeto\Projeto\obj\Debug\ExemploProjeto.exe
+C:\Users\jcosta\source\repos\Projeto\Projeto\obj\Debug\ExemploProjeto.pdb
+C:\Users\jcosta\source\repos\Projeto\Projeto\bin\Debug\GlobalDLL.dll
+C:\Users\jcosta\source\repos\Projeto\Projeto\bin\Debug\GlobalDLL.pdb
